@@ -1,0 +1,390 @@
+[
+    {
+        "merged": "D:\\Android\\Projects\\Nursery Book\\app\\build\\intermediates\\res\\merged\\release\\raw\\egg.mp3",
+        "source": "D:\\Android\\Projects\\Nursery Book\\app\\src\\main\\res\\raw\\egg.mp3"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nursery Book\\app\\build\\intermediates\\res\\merged\\release\\raw\\s_grape.mp3",
+        "source": "D:\\Android\\Projects\\Nursery Book\\app\\src\\main\\res\\raw\\s_grape.mp3"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nursery Book\\app\\build\\intermediates\\res\\merged\\release\\raw\\s_apple.mp3",
+        "source": "D:\\Android\\Projects\\Nursery Book\\app\\src\\main\\res\\raw\\s_apple.mp3"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nursery Book\\app\\build\\intermediates\\res\\merged\\release\\raw\\s_frog.mp3",
+        "source": "D:\\Android\\Projects\\Nursery Book\\app\\src\\main\\res\\raw\\s_frog.mp3"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nursery Book\\app\\build\\intermediates\\res\\merged\\release\\raw\\train.mp3",
+        "source": "D:\\Android\\Projects\\Nursery Book\\app\\src\\main\\res\\raw\\train.mp3"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nursery Book\\app\\build\\intermediates\\res\\merged\\release\\raw\\a.mp3",
+        "source": "D:\\Android\\Projects\\Nursery Book\\app\\src\\main\\res\\raw\\a.mp3"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nursery Book\\app\\build\\intermediates\\res\\merged\\release\\raw\\blue.mp3",
+        "source": "D:\\Android\\Projects\\Nursery Book\\app\\src\\main\\res\\raw\\blue.mp3"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nursery Book\\app\\build\\intermediates\\res\\merged\\release\\raw\\l.mp3",
+        "source": "D:\\Android\\Projects\\Nursery Book\\app\\src\\main\\res\\raw\\l.mp3"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nursery Book\\app\\build\\intermediates\\res\\merged\\release\\raw\\s_doll.mp3",
+        "source": "D:\\Android\\Projects\\Nursery Book\\app\\src\\main\\res\\raw\\s_doll.mp3"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nursery Book\\app\\build\\intermediates\\res\\merged\\release\\raw\\x.mp3",
+        "source": "D:\\Android\\Projects\\Nursery Book\\app\\src\\main\\res\\raw\\x.mp3"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nursery Book\\app\\build\\intermediates\\res\\merged\\release\\raw\\s_egg.mp3",
+        "source": "D:\\Android\\Projects\\Nursery Book\\app\\src\\main\\res\\raw\\s_egg.mp3"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nursery Book\\app\\build\\intermediates\\res\\merged\\release\\raw\\k.mp3",
+        "source": "D:\\Android\\Projects\\Nursery Book\\app\\src\\main\\res\\raw\\k.mp3"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nursery Book\\app\\build\\intermediates\\res\\merged\\release\\raw\\s_rabbit.mp3",
+        "source": "D:\\Android\\Projects\\Nursery Book\\app\\src\\main\\res\\raw\\s_rabbit.mp3"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nursery Book\\app\\build\\intermediates\\res\\merged\\release\\raw\\n.mp3",
+        "source": "D:\\Android\\Projects\\Nursery Book\\app\\src\\main\\res\\raw\\n.mp3"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nursery Book\\app\\build\\intermediates\\res\\merged\\release\\raw\\n8.mp3",
+        "source": "D:\\Android\\Projects\\Nursery Book\\app\\src\\main\\res\\raw\\n8.mp3"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nursery Book\\app\\build\\intermediates\\res\\merged\\release\\raw\\w.mp3",
+        "source": "D:\\Android\\Projects\\Nursery Book\\app\\src\\main\\res\\raw\\w.mp3"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nursery Book\\app\\build\\intermediates\\res\\merged\\release\\raw\\c.mp3",
+        "source": "D:\\Android\\Projects\\Nursery Book\\app\\src\\main\\res\\raw\\c.mp3"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nursery Book\\app\\build\\intermediates\\res\\merged\\release\\raw\\nest.mp3",
+        "source": "D:\\Android\\Projects\\Nursery Book\\app\\src\\main\\res\\raw\\nest.mp3"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nursery Book\\app\\build\\intermediates\\res\\merged\\release\\raw\\z.mp3",
+        "source": "D:\\Android\\Projects\\Nursery Book\\app\\src\\main\\res\\raw\\z.mp3"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nursery Book\\app\\build\\intermediates\\res\\merged\\release\\raw\\s_orange.mp3",
+        "source": "D:\\Android\\Projects\\Nursery Book\\app\\src\\main\\res\\raw\\s_orange.mp3"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nursery Book\\app\\build\\intermediates\\res\\merged\\release\\raw\\n7.mp3",
+        "source": "D:\\Android\\Projects\\Nursery Book\\app\\src\\main\\res\\raw\\n7.mp3"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nursery Book\\app\\build\\intermediates\\res\\merged\\release\\raw\\n1.mp3",
+        "source": "D:\\Android\\Projects\\Nursery Book\\app\\src\\main\\res\\raw\\n1.mp3"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nursery Book\\app\\build\\intermediates\\res\\merged\\release\\raw\\white.mp3",
+        "source": "D:\\Android\\Projects\\Nursery Book\\app\\src\\main\\res\\raw\\white.mp3"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nursery Book\\app\\build\\intermediates\\res\\merged\\release\\raw\\s_watermelon.mp3",
+        "source": "D:\\Android\\Projects\\Nursery Book\\app\\src\\main\\res\\raw\\s_watermelon.mp3"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nursery Book\\app\\build\\intermediates\\res\\merged\\release\\raw\\d.mp3",
+        "source": "D:\\Android\\Projects\\Nursery Book\\app\\src\\main\\res\\raw\\d.mp3"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nursery Book\\app\\build\\intermediates\\res\\merged\\release\\raw\\s_cat.mp3",
+        "source": "D:\\Android\\Projects\\Nursery Book\\app\\src\\main\\res\\raw\\s_cat.mp3"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nursery Book\\app\\build\\intermediates\\res\\merged\\release\\raw\\s_xray_fish.mp3",
+        "source": "D:\\Android\\Projects\\Nursery Book\\app\\src\\main\\res\\raw\\s_xray_fish.mp3"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nursery Book\\app\\build\\intermediates\\res\\merged\\release\\raw\\brown.mp3",
+        "source": "D:\\Android\\Projects\\Nursery Book\\app\\src\\main\\res\\raw\\brown.mp3"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nursery Book\\app\\build\\intermediates\\res\\merged\\release\\raw\\s_jam.mp3",
+        "source": "D:\\Android\\Projects\\Nursery Book\\app\\src\\main\\res\\raw\\s_jam.mp3"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nursery Book\\app\\build\\intermediates\\res\\merged\\release\\raw\\s_pig.mp3",
+        "source": "D:\\Android\\Projects\\Nursery Book\\app\\src\\main\\res\\raw\\s_pig.mp3"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nursery Book\\app\\build\\intermediates\\res\\merged\\release\\raw\\van.mp3",
+        "source": "D:\\Android\\Projects\\Nursery Book\\app\\src\\main\\res\\raw\\van.mp3"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nursery Book\\app\\build\\intermediates\\res\\merged\\release\\raw\\s_yoyo.mp3",
+        "source": "D:\\Android\\Projects\\Nursery Book\\app\\src\\main\\res\\raw\\s_yoyo.mp3"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nursery Book\\app\\build\\intermediates\\res\\merged\\release\\raw\\orange.mp3",
+        "source": "D:\\Android\\Projects\\Nursery Book\\app\\src\\main\\res\\raw\\orange.mp3"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nursery Book\\app\\build\\intermediates\\res\\merged\\release\\raw\\y.mp3",
+        "source": "D:\\Android\\Projects\\Nursery Book\\app\\src\\main\\res\\raw\\y.mp3"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nursery Book\\app\\build\\intermediates\\res\\merged\\release\\raw\\s.mp3",
+        "source": "D:\\Android\\Projects\\Nursery Book\\app\\src\\main\\res\\raw\\s.mp3"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nursery Book\\app\\build\\intermediates\\res\\merged\\release\\raw\\m.mp3",
+        "source": "D:\\Android\\Projects\\Nursery Book\\app\\src\\main\\res\\raw\\m.mp3"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nursery Book\\app\\build\\intermediates\\res\\merged\\release\\raw\\hen.mp3",
+        "source": "D:\\Android\\Projects\\Nursery Book\\app\\src\\main\\res\\raw\\hen.mp3"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nursery Book\\app\\build\\intermediates\\res\\merged\\release\\raw\\j.mp3",
+        "source": "D:\\Android\\Projects\\Nursery Book\\app\\src\\main\\res\\raw\\j.mp3"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nursery Book\\app\\build\\intermediates\\res\\merged\\release\\raw\\v.mp3",
+        "source": "D:\\Android\\Projects\\Nursery Book\\app\\src\\main\\res\\raw\\v.mp3"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nursery Book\\app\\build\\intermediates\\res\\merged\\release\\raw\\frog.mp3",
+        "source": "D:\\Android\\Projects\\Nursery Book\\app\\src\\main\\res\\raw\\frog.mp3"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nursery Book\\app\\build\\intermediates\\res\\merged\\release\\raw\\apple.mp3",
+        "source": "D:\\Android\\Projects\\Nursery Book\\app\\src\\main\\res\\raw\\apple.mp3"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nursery Book\\app\\build\\intermediates\\res\\merged\\release\\raw\\p.mp3",
+        "source": "D:\\Android\\Projects\\Nursery Book\\app\\src\\main\\res\\raw\\p.mp3"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nursery Book\\app\\build\\intermediates\\res\\merged\\release\\raw\\n4.mp3",
+        "source": "D:\\Android\\Projects\\Nursery Book\\app\\src\\main\\res\\raw\\n4.mp3"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nursery Book\\app\\build\\intermediates\\res\\merged\\release\\raw\\s_quill.mp3",
+        "source": "D:\\Android\\Projects\\Nursery Book\\app\\src\\main\\res\\raw\\s_quill.mp3"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nursery Book\\app\\build\\intermediates\\res\\merged\\release\\raw\\r.mp3",
+        "source": "D:\\Android\\Projects\\Nursery Book\\app\\src\\main\\res\\raw\\r.mp3"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nursery Book\\app\\build\\intermediates\\res\\merged\\release\\raw\\g.mp3",
+        "source": "D:\\Android\\Projects\\Nursery Book\\app\\src\\main\\res\\raw\\g.mp3"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nursery Book\\app\\build\\intermediates\\res\\merged\\release\\raw\\yoyo.mp3",
+        "source": "D:\\Android\\Projects\\Nursery Book\\app\\src\\main\\res\\raw\\yoyo.mp3"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nursery Book\\app\\build\\intermediates\\res\\merged\\release\\raw\\s_umbrella.mp3",
+        "source": "D:\\Android\\Projects\\Nursery Book\\app\\src\\main\\res\\raw\\s_umbrella.mp3"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nursery Book\\app\\build\\intermediates\\res\\merged\\release\\raw\\xray_fish.mp3",
+        "source": "D:\\Android\\Projects\\Nursery Book\\app\\src\\main\\res\\raw\\xray_fish.mp3"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nursery Book\\app\\build\\intermediates\\res\\merged\\release\\raw\\s_lemon.mp3",
+        "source": "D:\\Android\\Projects\\Nursery Book\\app\\src\\main\\res\\raw\\s_lemon.mp3"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nursery Book\\app\\build\\intermediates\\res\\merged\\release\\raw\\q.mp3",
+        "source": "D:\\Android\\Projects\\Nursery Book\\app\\src\\main\\res\\raw\\q.mp3"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nursery Book\\app\\build\\intermediates\\res\\merged\\release\\raw\\grape.mp3",
+        "source": "D:\\Android\\Projects\\Nursery Book\\app\\src\\main\\res\\raw\\grape.mp3"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nursery Book\\app\\build\\intermediates\\res\\merged\\release\\raw\\pig.mp3",
+        "source": "D:\\Android\\Projects\\Nursery Book\\app\\src\\main\\res\\raw\\pig.mp3"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nursery Book\\app\\build\\intermediates\\res\\merged\\release\\raw\\kite.mp3",
+        "source": "D:\\Android\\Projects\\Nursery Book\\app\\src\\main\\res\\raw\\kite.mp3"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nursery Book\\app\\build\\intermediates\\res\\merged\\release\\raw\\ball.mp3",
+        "source": "D:\\Android\\Projects\\Nursery Book\\app\\src\\main\\res\\raw\\ball.mp3"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nursery Book\\app\\build\\intermediates\\res\\merged\\release\\raw\\s_nest.mp3",
+        "source": "D:\\Android\\Projects\\Nursery Book\\app\\src\\main\\res\\raw\\s_nest.mp3"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nursery Book\\app\\build\\intermediates\\res\\merged\\release\\raw\\umbrella.mp3",
+        "source": "D:\\Android\\Projects\\Nursery Book\\app\\src\\main\\res\\raw\\umbrella.mp3"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nursery Book\\app\\build\\intermediates\\res\\merged\\release\\raw\\n5.mp3",
+        "source": "D:\\Android\\Projects\\Nursery Book\\app\\src\\main\\res\\raw\\n5.mp3"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nursery Book\\app\\build\\intermediates\\res\\merged\\release\\raw\\t.mp3",
+        "source": "D:\\Android\\Projects\\Nursery Book\\app\\src\\main\\res\\raw\\t.mp3"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nursery Book\\app\\build\\intermediates\\res\\merged\\release\\raw\\red.mp3",
+        "source": "D:\\Android\\Projects\\Nursery Book\\app\\src\\main\\res\\raw\\red.mp3"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nursery Book\\app\\build\\intermediates\\res\\merged\\release\\raw\\s_zebra.mp3",
+        "source": "D:\\Android\\Projects\\Nursery Book\\app\\src\\main\\res\\raw\\s_zebra.mp3"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nursery Book\\app\\build\\intermediates\\res\\merged\\release\\raw\\i.mp3",
+        "source": "D:\\Android\\Projects\\Nursery Book\\app\\src\\main\\res\\raw\\i.mp3"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nursery Book\\app\\build\\intermediates\\res\\merged\\release\\raw\\f.mp3",
+        "source": "D:\\Android\\Projects\\Nursery Book\\app\\src\\main\\res\\raw\\f.mp3"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nursery Book\\app\\build\\intermediates\\res\\merged\\release\\raw\\n2.mp3",
+        "source": "D:\\Android\\Projects\\Nursery Book\\app\\src\\main\\res\\raw\\n2.mp3"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nursery Book\\app\\build\\intermediates\\res\\merged\\release\\raw\\yellow.mp3",
+        "source": "D:\\Android\\Projects\\Nursery Book\\app\\src\\main\\res\\raw\\yellow.mp3"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nursery Book\\app\\build\\intermediates\\res\\merged\\release\\raw\\n10.mp3",
+        "source": "D:\\Android\\Projects\\Nursery Book\\app\\src\\main\\res\\raw\\n10.mp3"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nursery Book\\app\\build\\intermediates\\res\\merged\\release\\raw\\s_kite.mp3",
+        "source": "D:\\Android\\Projects\\Nursery Book\\app\\src\\main\\res\\raw\\s_kite.mp3"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nursery Book\\app\\build\\intermediates\\res\\merged\\release\\raw\\watermelon.mp3",
+        "source": "D:\\Android\\Projects\\Nursery Book\\app\\src\\main\\res\\raw\\watermelon.mp3"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nursery Book\\app\\build\\intermediates\\res\\merged\\release\\raw\\purple.mp3",
+        "source": "D:\\Android\\Projects\\Nursery Book\\app\\src\\main\\res\\raw\\purple.mp3"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nursery Book\\app\\build\\intermediates\\res\\merged\\release\\raw\\sun.mp3",
+        "source": "D:\\Android\\Projects\\Nursery Book\\app\\src\\main\\res\\raw\\sun.mp3"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nursery Book\\app\\build\\intermediates\\res\\merged\\release\\raw\\lemon.mp3",
+        "source": "D:\\Android\\Projects\\Nursery Book\\app\\src\\main\\res\\raw\\lemon.mp3"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nursery Book\\app\\build\\intermediates\\res\\merged\\release\\raw\\s_igloo.mp3",
+        "source": "D:\\Android\\Projects\\Nursery Book\\app\\src\\main\\res\\raw\\s_igloo.mp3"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nursery Book\\app\\build\\intermediates\\res\\merged\\release\\raw\\o.mp3",
+        "source": "D:\\Android\\Projects\\Nursery Book\\app\\src\\main\\res\\raw\\o.mp3"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nursery Book\\app\\build\\intermediates\\res\\merged\\release\\raw\\zebra.mp3",
+        "source": "D:\\Android\\Projects\\Nursery Book\\app\\src\\main\\res\\raw\\zebra.mp3"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nursery Book\\app\\build\\intermediates\\res\\merged\\release\\raw\\s_sun.mp3",
+        "source": "D:\\Android\\Projects\\Nursery Book\\app\\src\\main\\res\\raw\\s_sun.mp3"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nursery Book\\app\\build\\intermediates\\res\\merged\\release\\raw\\s_mouse.mp3",
+        "source": "D:\\Android\\Projects\\Nursery Book\\app\\src\\main\\res\\raw\\s_mouse.mp3"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nursery Book\\app\\build\\intermediates\\res\\merged\\release\\raw\\rabbit.mp3",
+        "source": "D:\\Android\\Projects\\Nursery Book\\app\\src\\main\\res\\raw\\rabbit.mp3"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nursery Book\\app\\build\\intermediates\\res\\merged\\release\\raw\\green.mp3",
+        "source": "D:\\Android\\Projects\\Nursery Book\\app\\src\\main\\res\\raw\\green.mp3"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nursery Book\\app\\build\\intermediates\\res\\merged\\release\\raw\\jam.mp3",
+        "source": "D:\\Android\\Projects\\Nursery Book\\app\\src\\main\\res\\raw\\jam.mp3"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nursery Book\\app\\build\\intermediates\\res\\merged\\release\\raw\\s_hen.mp3",
+        "source": "D:\\Android\\Projects\\Nursery Book\\app\\src\\main\\res\\raw\\s_hen.mp3"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nursery Book\\app\\build\\intermediates\\res\\merged\\release\\raw\\black.mp3",
+        "source": "D:\\Android\\Projects\\Nursery Book\\app\\src\\main\\res\\raw\\black.mp3"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nursery Book\\app\\build\\intermediates\\res\\merged\\release\\raw\\s_ball.mp3",
+        "source": "D:\\Android\\Projects\\Nursery Book\\app\\src\\main\\res\\raw\\s_ball.mp3"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nursery Book\\app\\build\\intermediates\\res\\merged\\release\\raw\\u.mp3",
+        "source": "D:\\Android\\Projects\\Nursery Book\\app\\src\\main\\res\\raw\\u.mp3"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nursery Book\\app\\build\\intermediates\\res\\merged\\release\\raw\\doll.mp3",
+        "source": "D:\\Android\\Projects\\Nursery Book\\app\\src\\main\\res\\raw\\doll.mp3"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nursery Book\\app\\build\\intermediates\\res\\merged\\release\\raw\\cat.mp3",
+        "source": "D:\\Android\\Projects\\Nursery Book\\app\\src\\main\\res\\raw\\cat.mp3"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nursery Book\\app\\build\\intermediates\\res\\merged\\release\\raw\\h.mp3",
+        "source": "D:\\Android\\Projects\\Nursery Book\\app\\src\\main\\res\\raw\\h.mp3"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nursery Book\\app\\build\\intermediates\\res\\merged\\release\\raw\\b.mp3",
+        "source": "D:\\Android\\Projects\\Nursery Book\\app\\src\\main\\res\\raw\\b.mp3"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nursery Book\\app\\build\\intermediates\\res\\merged\\release\\raw\\e.mp3",
+        "source": "D:\\Android\\Projects\\Nursery Book\\app\\src\\main\\res\\raw\\e.mp3"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nursery Book\\app\\build\\intermediates\\res\\merged\\release\\raw\\quail.mp3",
+        "source": "D:\\Android\\Projects\\Nursery Book\\app\\src\\main\\res\\raw\\quail.mp3"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nursery Book\\app\\build\\intermediates\\res\\merged\\release\\raw\\igloo.mp3",
+        "source": "D:\\Android\\Projects\\Nursery Book\\app\\src\\main\\res\\raw\\igloo.mp3"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nursery Book\\app\\build\\intermediates\\res\\merged\\release\\raw\\n3.mp3",
+        "source": "D:\\Android\\Projects\\Nursery Book\\app\\src\\main\\res\\raw\\n3.mp3"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nursery Book\\app\\build\\intermediates\\res\\merged\\release\\raw\\orrnge.mp3",
+        "source": "D:\\Android\\Projects\\Nursery Book\\app\\src\\main\\res\\raw\\orrnge.mp3"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nursery Book\\app\\build\\intermediates\\res\\merged\\release\\raw\\mouse.mp3",
+        "source": "D:\\Android\\Projects\\Nursery Book\\app\\src\\main\\res\\raw\\mouse.mp3"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nursery Book\\app\\build\\intermediates\\res\\merged\\release\\raw\\n6.mp3",
+        "source": "D:\\Android\\Projects\\Nursery Book\\app\\src\\main\\res\\raw\\n6.mp3"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nursery Book\\app\\build\\intermediates\\res\\merged\\release\\raw\\s_van.mp3",
+        "source": "D:\\Android\\Projects\\Nursery Book\\app\\src\\main\\res\\raw\\s_van.mp3"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nursery Book\\app\\build\\intermediates\\res\\merged\\release\\raw\\n9.mp3",
+        "source": "D:\\Android\\Projects\\Nursery Book\\app\\src\\main\\res\\raw\\n9.mp3"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nursery Book\\app\\build\\intermediates\\res\\merged\\release\\raw\\s_train.mp3",
+        "source": "D:\\Android\\Projects\\Nursery Book\\app\\src\\main\\res\\raw\\s_train.mp3"
+    }
+]

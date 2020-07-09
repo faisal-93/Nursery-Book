@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_horizontal_margin">60dp</dimen>
+    <dimen name="button_gap">7.5dp</dimen>
+    <dimen name="button_gap1">15dp</dimen>
+    <dimen name="button_size">140dp</dimen>
+    <dimen name="button_size2">100dp</dimen>
+    <dimen name="image_size">255dp</dimen>
+    <dimen name="long_text_size">82.5sp</dimen>
+    <dimen name="main_activity_button">290dp</dimen>
+    <dimen name="main_activity_button_padding">100dp</dimen>
+    <dimen name="margin">140dp</dimen>
+    <dimen name="short_text_size">240sp</dimen>
+    <dimen name="viewpager_width">830dp</dimen>
+</resources>

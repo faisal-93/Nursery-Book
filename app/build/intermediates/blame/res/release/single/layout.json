@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "D:\\Android\\Projects\\Nursery Book\\app\\build\\intermediates\\res\\merged\\release\\layout\\swiper_layout_alphabet.xml",
+        "source": "D:\\Android\\Projects\\Nursery Book\\app\\src\\main\\res\\layout\\swiper_layout_alphabet.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nursery Book\\app\\build\\intermediates\\res\\merged\\release\\layout\\swiper_layout_alphabet_word.xml",
+        "source": "D:\\Android\\Projects\\Nursery Book\\app\\src\\main\\res\\layout\\swiper_layout_alphabet_word.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nursery Book\\app\\build\\intermediates\\res\\merged\\release\\layout\\swiper_layout.xml",
+        "source": "D:\\Android\\Projects\\Nursery Book\\app\\src\\main\\res\\layout\\swiper_layout.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nursery Book\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_splash.xml",
+        "source": "D:\\Android\\Projects\\Nursery Book\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nursery Book\\app\\build\\intermediates\\res\\merged\\release\\layout\\viewpager_layout.xml",
+        "source": "D:\\Android\\Projects\\Nursery Book\\app\\src\\main\\res\\layout\\viewpager_layout.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nursery Book\\app\\build\\intermediates\\res\\merged\\release\\layout\\container_fragment.xml",
+        "source": "D:\\Android\\Projects\\Nursery Book\\app\\src\\main\\res\\layout\\container_fragment.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nursery Book\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_main.xml",
+        "source": "D:\\Android\\Projects\\Nursery Book\\app\\src\\main\\res\\layout\\activity_main.xml"
+    }
+]

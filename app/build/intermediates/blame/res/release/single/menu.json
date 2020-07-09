@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "D:\\Android\\Projects\\Nursery Book\\app\\build\\intermediates\\res\\merged\\release\\menu\\number.xml",
+        "source": "D:\\Android\\Projects\\Nursery Book\\app\\src\\main\\res\\menu\\number.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nursery Book\\app\\build\\intermediates\\res\\merged\\release\\menu\\main.xml",
+        "source": "D:\\Android\\Projects\\Nursery Book\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nursery Book\\app\\build\\intermediates\\res\\merged\\release\\menu\\about.xml",
+        "source": "D:\\Android\\Projects\\Nursery Book\\app\\src\\main\\res\\menu\\about.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nursery Book\\app\\build\\intermediates\\res\\merged\\release\\menu\\color.xml",
+        "source": "D:\\Android\\Projects\\Nursery Book\\app\\src\\main\\res\\menu\\color.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nursery Book\\app\\build\\intermediates\\res\\merged\\release\\menu\\seasons.xml",
+        "source": "D:\\Android\\Projects\\Nursery Book\\app\\src\\main\\res\\menu\\seasons.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nursery Book\\app\\build\\intermediates\\res\\merged\\release\\menu\\season.xml",
+        "source": "D:\\Android\\Projects\\Nursery Book\\app\\src\\main\\res\\menu\\season.xml"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nursery Book\\app\\build\\intermediates\\res\\merged\\release\\menu\\alphabet.xml",
+        "source": "D:\\Android\\Projects\\Nursery Book\\app\\src\\main\\res\\menu\\alphabet.xml"
+    }
+]

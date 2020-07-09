@@ -1,0 +1,94 @@
+[
+    {
+        "merged": "D:\\Android\\Projects\\Nursery Book\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\background_2.png",
+        "source": "D:\\Android\\Projects\\Nursery Book\\app\\src\\main\\res\\drawable-xxhdpi\\background_2.png"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nursery Book\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\rate.png",
+        "source": "D:\\Android\\Projects\\Nursery Book\\app\\src\\main\\res\\drawable-xxhdpi\\rate.png"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nursery Book\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\number_prsd.png",
+        "source": "D:\\Android\\Projects\\Nursery Book\\app\\src\\main\\res\\drawable-xxhdpi\\number_prsd.png"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nursery Book\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\btn_next_pressed.png",
+        "source": "D:\\Android\\Projects\\Nursery Book\\app\\src\\main\\res\\drawable-xxhdpi\\btn_next_pressed.png"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nursery Book\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\btn_number.png",
+        "source": "D:\\Android\\Projects\\Nursery Book\\app\\src\\main\\res\\drawable-xxhdpi\\btn_number.png"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nursery Book\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\btn_words.png",
+        "source": "D:\\Android\\Projects\\Nursery Book\\app\\src\\main\\res\\drawable-xxhdpi\\btn_words.png"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nursery Book\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\colors_prsd.png",
+        "source": "D:\\Android\\Projects\\Nursery Book\\app\\src\\main\\res\\drawable-xxhdpi\\colors_prsd.png"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nursery Book\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\btn_next.png",
+        "source": "D:\\Android\\Projects\\Nursery Book\\app\\src\\main\\res\\drawable-xxhdpi\\btn_next.png"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nursery Book\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\btn_alphabet.png",
+        "source": "D:\\Android\\Projects\\Nursery Book\\app\\src\\main\\res\\drawable-xxhdpi\\btn_alphabet.png"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nursery Book\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\more.png",
+        "source": "D:\\Android\\Projects\\Nursery Book\\app\\src\\main\\res\\drawable-xxhdpi\\more.png"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nursery Book\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\btn_colors.png",
+        "source": "D:\\Android\\Projects\\Nursery Book\\app\\src\\main\\res\\drawable-xxhdpi\\btn_colors.png"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nursery Book\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\btn_replay_pressed.png",
+        "source": "D:\\Android\\Projects\\Nursery Book\\app\\src\\main\\res\\drawable-xxhdpi\\btn_replay_pressed.png"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nursery Book\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\btn_previous.png",
+        "source": "D:\\Android\\Projects\\Nursery Book\\app\\src\\main\\res\\drawable-xxhdpi\\btn_previous.png"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nursery Book\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\alpha_prsd.png",
+        "source": "D:\\Android\\Projects\\Nursery Book\\app\\src\\main\\res\\drawable-xxhdpi\\alpha_prsd.png"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nursery Book\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\btn_prev_pressed.png",
+        "source": "D:\\Android\\Projects\\Nursery Book\\app\\src\\main\\res\\drawable-xxhdpi\\btn_prev_pressed.png"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nursery Book\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\btn_reply.png",
+        "source": "D:\\Android\\Projects\\Nursery Book\\app\\src\\main\\res\\drawable-xxhdpi\\btn_reply.png"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nursery Book\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\rate_pressed.png",
+        "source": "D:\\Android\\Projects\\Nursery Book\\app\\src\\main\\res\\drawable-xxhdpi\\rate_pressed.png"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nursery Book\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\btn_back_pressed.png",
+        "source": "D:\\Android\\Projects\\Nursery Book\\app\\src\\main\\res\\drawable-xxhdpi\\btn_back_pressed.png"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nursery Book\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\words_prsd.png",
+        "source": "D:\\Android\\Projects\\Nursery Book\\app\\src\\main\\res\\drawable-xxhdpi\\words_prsd.png"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nursery Book\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\background1.png",
+        "source": "D:\\Android\\Projects\\Nursery Book\\app\\src\\main\\res\\drawable-xxhdpi\\background1.png"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nursery Book\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\btn_back.png",
+        "source": "D:\\Android\\Projects\\Nursery Book\\app\\src\\main\\res\\drawable-xxhdpi\\btn_back.png"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nursery Book\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\more_pressed.png",
+        "source": "D:\\Android\\Projects\\Nursery Book\\app\\src\\main\\res\\drawable-xxhdpi\\more_pressed.png"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\Nursery Book\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\splash.png",
+        "source": "D:\\Android\\Projects\\Nursery Book\\app\\src\\main\\res\\drawable-xxhdpi\\splash.png"
+    }
+]

@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="alphabet">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+    </string-array>
+
+    <array name="alphabet_image">
+        <item>@drawable/a_apple</item>
+        <item>@drawable/a_ball</item>
+        <item>@drawable/a_cat</item>
+        <item>@drawable/a_doll</item>
+        <item>@drawable/a_egg</item>
+        <item>@drawable/a_frog</item>
+        <item>@drawable/a_grape</item>
+        <item>@drawable/a_hen</item>
+        <item>@drawable/a_igloo</item>
+        <item>@drawable/a_jam</item>
+        <item>@drawable/a_kite</item>
+        <item>@drawable/a_lemon</item>
+        <item>@drawable/a_mouse</item>
+        <item>@drawable/a_nest</item>
+        <item>@drawable/a_orange</item>
+        <item>@drawable/a_pig</item>
+        <item>@drawable/a_quail</item>
+        <item>@drawable/a_rabbit</item>
+        <item>@drawable/a_sun</item>
+        <item>@drawable/a_train</item>
+        <item>@drawable/a_umbrella</item>
+        <item>@drawable/a_van</item>
+        <item>@drawable/a_watermelon</item>
+        <item>@drawable/a_xray_fish</item>
+        <item>@drawable/a_yoyo</item>
+        <item>@drawable/a_zebra</item>
+    </array>
+    <array name="example_name">
+        <item>Apple</item>
+        <item>Ball</item>
+        <item>Cat</item>
+        <item>Doll</item>
+        <item>Egg</item>
+        <item>Frog</item>
+        <item>Grape</item>
+        <item>Hen</item>
+        <item>Igloo</item>
+        <item>Jam</item>
+        <item>Kite</item>
+        <item>Lemon</item>
+        <item>Mouse</item>
+        <item>Nest</item>
+        <item>Orange</item>
+        <item>Pig</item>
+        <item>Quill</item>
+        <item>Rabbit</item>
+        <item>Sun</item>
+        <item>Train</item>
+        <item>Umbrella</item>
+        <item>Van</item>
+        <item>Watermelon</item>
+        <item>Xray Fish</item>
+        <item>Yoyo</item>
+        <item>Zebra</item>
+    </array>
+
+    <string-array name="alphabet_color">
+        <item>#fd0002</item>
+        <item>#0000fe</item>
+        <item>#66339a</item>
+        <item>#fe00ff</item>
+        <item>#feff01</item>
+        <item>#00fe00</item>
+        <item>#ff95d3</item>
+        <item>#3813ad</item>
+        <item>#fe00ff</item>
+        <item>#801515</item>
+        <item>#fd0002</item>
+        <item>#0000fe</item>
+        <item>#66339a</item>
+        <item>#fe00ff</item>
+        <item>#feff01</item>
+        <item>#00fe00</item>
+        <item>#ff95d3</item>
+        <item>#3813ad</item>
+        <item>#fe00ff</item>
+        <item>#801515</item>
+        <item>#fd0002</item>
+        <item>#0000fe</item>
+        <item>#66339a</item>
+        <item>#fe00ff</item>
+        <item>#feff01</item>
+        <item>#00fe00</item>
+    </string-array>
+    <string-array name="color_name">
+        <item>Black</item>
+        <item>White</item>
+        <item>Blue</item>
+        <item>Brown</item>
+        <item>Green</item>
+        <item>Yellow</item>
+        <item>Orange</item>
+        <item>Red</item>
+        <item>Purple</item>
+    </string-array>
+
+    <array name="color_image">
+        <item>@drawable/black</item>
+        <item>@drawable/white</item>
+        <item>@drawable/blue</item>
+        <item>@drawable/brown</item>
+        <item>@drawable/green</item>
+        <item>@drawable/yellow</item>
+        <item>@drawable/orange</item>
+        <item>@drawable/red</item>
+        <item>@drawable/purple</item>
+    </array>
+
+    <string-array name="color_color">
+        <item>#000000</item>
+        <item>#ffffff</item>
+        <item>#0000ff</item>
+        <item>#a0522d</item>
+        <item>#16c102</item>
+        <item>#ffff00</item>
+        <item>#ff9100</item>
+        <item>#ff0000</item>
+        <item>#800080</item>
+    </string-array>
+    <string-array name="number_name">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+    </string-array>
+
+    <array name="number_image">
+        <item>@drawable/finger_1</item>
+        <item>@drawable/finger_2</item>
+        <item>@drawable/finger_3</item>
+        <item>@drawable/finger_4</item>
+        <item>@drawable/finger_5</item>
+        <item>@drawable/finger_6</item>
+        <item>@drawable/finger_7</item>
+        <item>@drawable/finger_8</item>
+        <item>@drawable/finger_9</item>
+        <item>@drawable/finger_10</item>
+    </array>
+
+    <string-array name="number_color">
+        <item>#fd0002</item>
+        <item>#0000fe</item>
+        <item>#66339a</item>
+        <item>#fe00ff</item>
+        <item>#feff01</item>
+        <item>#00fe00</item>
+        <item>#ff95d3</item>
+        <item>#3813ad</item>
+        <item>#fe00ff</item>
+        <item>#801515</item>
+    </string-array>
+    <string-array name="season_name">
+        <item>Winter</item>
+        <item>Spring</item>
+        <item>Autumn</item>
+        <item>Summer</item>
+    </string-array>
+
+
+
+    <string-array name="season_color">
+        <item>#fd0002</item>
+        <item>#0000fe</item>
+        <item>#66339a</item>
+        <item>#fe00ff</item>
+    </string-array>
+
+</resources>

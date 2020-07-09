@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\Android_Studio_Preoject\\English_Learning_Book\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "D:\\Android_Studio_Preoject\\English_Learning_Book\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Android\\Projects\\English_Learning_Book\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "D:\\Android\\Projects\\English_Learning_Book\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    }
+]

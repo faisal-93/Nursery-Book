@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="button_gap">7.5dp</dimen>
+    <dimen name="button_gap1">15dp</dimen>
+    <dimen name="button_size">85dp</dimen>
+    <dimen name="image_size">255dp</dimen>
+    <dimen name="long_text_size">82.5sp</dimen>
+    <dimen name="main_activity_button">150dp</dimen>
+    <dimen name="main_activity_button_padding">50dp</dimen>
+    <dimen name="short_text_size">240sp</dimen>
+</resources>

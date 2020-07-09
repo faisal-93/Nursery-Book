@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\Android\Projects\Nursery Book\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="D:\Android\Projects\Nursery Book\app\build\intermediates\pre-dexed\release\com.android.support-support-core-ui-25.3.1_a5e0fb480ace13bad7395dc1256736bf5d256018.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="D:\Android\Projects\Nursery Book\app\build\intermediates\pre-dexed\release\support-annotations-25.3.1_4587515df70b11ae990e217c69c9b3a61733a049.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\Projects\Nursery Book\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="D:\Android\Projects\Nursery Book\app\build\intermediates\pre-dexed\release\com.android.support-support-core-utils-25.3.1_293cd0ca5be435211766986ba8a5d5bddc5b6a4b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\Projects\Nursery Book\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="D:\Android\Projects\Nursery Book\app\build\intermediates\pre-dexed\release\com.android.support-support-media-compat-25.3.1_037f5c054b9f57ff3ec362b04acd8d1d63dac131.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\Projects\Nursery Book\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="D:\Android\Projects\Nursery Book\app\build\intermediates\pre-dexed\release\com.android.support-support-fragment-25.3.1_50f3f170a4395507b8e9f544466b2a63da2a8216.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\Projects\Nursery Book\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="D:\Android\Projects\Nursery Book\app\build\intermediates\pre-dexed\release\com.android.support-support-compat-25.3.1_f99fc8bb0e4cf5fbcd0cea59e42682f63cb7892e.jar" />
+    </item>
+
+</items>

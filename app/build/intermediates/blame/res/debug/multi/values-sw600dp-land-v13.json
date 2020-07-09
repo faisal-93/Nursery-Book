@@ -1,0 +1,644 @@
+[
+    {
+        "outputFile": "D:\\Android\\Projects\\English_Learning_Book\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw600dp-land-v13\\values-sw600dp-land-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 42,
+                    "endOffset": 93
+                },
+                "from": {
+                    "file": "D:\\Android\\Projects\\English_Learning_Book\\app\\src\\main\\res\\values-sw600dp-land\\dimens.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 536,
+                        "endColumn": 42,
+                        "endOffset": 574
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 98,
+                    "endColumn": 42,
+                    "endOffset": 136
+                },
+                "from": {
+                    "file": "D:\\Android\\Projects\\English_Learning_Book\\app\\src\\main\\res\\values-sw600dp-land\\dimens.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 580,
+                        "endColumn": 42,
+                        "endOffset": 618
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 141,
+                    "endColumn": 43,
+                    "endOffset": 180
+                },
+                "from": {
+                    "file": "D:\\Android\\Projects\\English_Learning_Book\\app\\src\\main\\res\\values-sw600dp-land\\dimens.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 446,
+                        "endColumn": 43,
+                        "endOffset": 485
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 185,
+                    "endColumn": 43,
+                    "endOffset": 224
+                },
+                "from": {
+                    "file": "D:\\Android\\Projects\\English_Learning_Book\\app\\src\\main\\res\\values-sw600dp-land\\dimens.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 491,
+                        "endColumn": 43,
+                        "endOffset": 530
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 229,
+                    "endColumn": 42,
+                    "endOffset": 267
+                },
+                "from": {
+                    "file": "D:\\Android\\Projects\\English_Learning_Book\\app\\src\\main\\res\\values-sw600dp-land\\dimens.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 226,
+                        "endColumn": 42,
+                        "endOffset": 264
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 272,
+                    "endColumn": 47,
+                    "endOffset": 315
+                },
+                "from": {
+                    "file": "D:\\Android\\Projects\\English_Learning_Book\\app\\src\\main\\res\\values-sw600dp-land\\dimens.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 319,
+                        "endColumn": 47,
+                        "endOffset": 362
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 320,
+                    "endColumn": 52,
+                    "endOffset": 368
+                },
+                "from": {
+                    "file": "D:\\Android\\Projects\\English_Learning_Book\\app\\src\\main\\res\\values-sw600dp-land\\dimens.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 624,
+                        "endColumn": 52,
+                        "endOffset": 672
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 373,
+                    "endColumn": 59,
+                    "endOffset": 428
+                },
+                "from": {
+                    "file": "D:\\Android\\Projects\\English_Learning_Book\\app\\src\\main\\res\\values-sw600dp-land\\dimens.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 678,
+                        "endColumn": 59,
+                        "endOffset": 733
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 433,
+                    "endColumn": 38,
+                    "endOffset": 467
+                },
+                "from": {
+                    "file": "D:\\Android\\Projects\\English_Learning_Book\\app\\src\\main\\res\\values-sw600dp-land\\dimens.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 739,
+                        "endColumn": 38,
+                        "endOffset": 773
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 472,
+                    "endColumn": 47,
+                    "endOffset": 515
+                },
+                "from": {
+                    "file": "D:\\Android\\Projects\\English_Learning_Book\\app\\src\\main\\res\\values-sw600dp-land\\dimens.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 270,
+                        "endColumn": 47,
+                        "endOffset": 313
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 520,
+                    "endColumn": 48,
+                    "endOffset": 564
+                },
+                "from": {
+                    "file": "D:\\Android\\Projects\\English_Learning_Book\\app\\src\\main\\res\\values-sw600dp-land\\dimens.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 368,
+                        "endColumn": 48,
+                        "endOffset": 412
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "D:\\Android_Studio_Preoject\\English_Learning_Book\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw600dp-land-v13\\values-sw600dp-land-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 42,
+                    "endOffset": 93
+                },
+                "from": {
+                    "file": "D:\\Android_Studio_Preoject\\English_Learning_Book\\app\\src\\main\\res\\values-sw600dp-land\\dimens.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 536,
+                        "endColumn": 42,
+                        "endOffset": 574
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 98,
+                    "endColumn": 42,
+                    "endOffset": 136
+                },
+                "from": {
+                    "file": "D:\\Android_Studio_Preoject\\English_Learning_Book\\app\\src\\main\\res\\values-sw600dp-land\\dimens.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 580,
+                        "endColumn": 42,
+                        "endOffset": 618
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 141,
+                    "endColumn": 43,
+                    "endOffset": 180
+                },
+                "from": {
+                    "file": "D:\\Android_Studio_Preoject\\English_Learning_Book\\app\\src\\main\\res\\values-sw600dp-land\\dimens.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 446,
+                        "endColumn": 43,
+                        "endOffset": 485
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 185,
+                    "endColumn": 43,
+                    "endOffset": 224
+                },
+                "from": {
+                    "file": "D:\\Android_Studio_Preoject\\English_Learning_Book\\app\\src\\main\\res\\values-sw600dp-land\\dimens.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 491,
+                        "endColumn": 43,
+                        "endOffset": 530
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 229,
+                    "endColumn": 42,
+                    "endOffset": 267
+                },
+                "from": {
+                    "file": "D:\\Android_Studio_Preoject\\English_Learning_Book\\app\\src\\main\\res\\values-sw600dp-land\\dimens.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 226,
+                        "endColumn": 42,
+                        "endOffset": 264
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 272,
+                    "endColumn": 47,
+                    "endOffset": 315
+                },
+                "from": {
+                    "file": "D:\\Android_Studio_Preoject\\English_Learning_Book\\app\\src\\main\\res\\values-sw600dp-land\\dimens.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 319,
+                        "endColumn": 47,
+                        "endOffset": 362
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 320,
+                    "endColumn": 52,
+                    "endOffset": 368
+                },
+                "from": {
+                    "file": "D:\\Android_Studio_Preoject\\English_Learning_Book\\app\\src\\main\\res\\values-sw600dp-land\\dimens.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 624,
+                        "endColumn": 52,
+                        "endOffset": 672
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 373,
+                    "endColumn": 59,
+                    "endOffset": 428
+                },
+                "from": {
+                    "file": "D:\\Android_Studio_Preoject\\English_Learning_Book\\app\\src\\main\\res\\values-sw600dp-land\\dimens.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 678,
+                        "endColumn": 59,
+                        "endOffset": 733
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 433,
+                    "endColumn": 38,
+                    "endOffset": 467
+                },
+                "from": {
+                    "file": "D:\\Android_Studio_Preoject\\English_Learning_Book\\app\\src\\main\\res\\values-sw600dp-land\\dimens.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 739,
+                        "endColumn": 38,
+                        "endOffset": 773
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 472,
+                    "endColumn": 47,
+                    "endOffset": 515
+                },
+                "from": {
+                    "file": "D:\\Android_Studio_Preoject\\English_Learning_Book\\app\\src\\main\\res\\values-sw600dp-land\\dimens.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 270,
+                        "endColumn": 47,
+                        "endOffset": 313
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 520,
+                    "endColumn": 48,
+                    "endOffset": 564
+                },
+                "from": {
+                    "file": "D:\\Android_Studio_Preoject\\English_Learning_Book\\app\\src\\main\\res\\values-sw600dp-land\\dimens.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 368,
+                        "endColumn": 48,
+                        "endOffset": 412
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "D:\\Android\\Projects\\Nursery Book\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw600dp-land-v13\\values-sw600dp-land-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 42,
+                    "endOffset": 93
+                },
+                "from": {
+                    "file": "D:\\Android\\Projects\\Nursery Book\\app\\src\\main\\res\\values-sw600dp-land\\dimens.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 536,
+                        "endColumn": 42,
+                        "endOffset": 574
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 98,
+                    "endColumn": 42,
+                    "endOffset": 136
+                },
+                "from": {
+                    "file": "D:\\Android\\Projects\\Nursery Book\\app\\src\\main\\res\\values-sw600dp-land\\dimens.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 580,
+                        "endColumn": 42,
+                        "endOffset": 618
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 141,
+                    "endColumn": 43,
+                    "endOffset": 180
+                },
+                "from": {
+                    "file": "D:\\Android\\Projects\\Nursery Book\\app\\src\\main\\res\\values-sw600dp-land\\dimens.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 446,
+                        "endColumn": 43,
+                        "endOffset": 485
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 185,
+                    "endColumn": 43,
+                    "endOffset": 224
+                },
+                "from": {
+                    "file": "D:\\Android\\Projects\\Nursery Book\\app\\src\\main\\res\\values-sw600dp-land\\dimens.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 491,
+                        "endColumn": 43,
+                        "endOffset": 530
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 229,
+                    "endColumn": 42,
+                    "endOffset": 267
+                },
+                "from": {
+                    "file": "D:\\Android\\Projects\\Nursery Book\\app\\src\\main\\res\\values-sw600dp-land\\dimens.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 226,
+                        "endColumn": 42,
+                        "endOffset": 264
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 272,
+                    "endColumn": 47,
+                    "endOffset": 315
+                },
+                "from": {
+                    "file": "D:\\Android\\Projects\\Nursery Book\\app\\src\\main\\res\\values-sw600dp-land\\dimens.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 319,
+                        "endColumn": 47,
+                        "endOffset": 362
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 320,
+                    "endColumn": 52,
+                    "endOffset": 368
+                },
+                "from": {
+                    "file": "D:\\Android\\Projects\\Nursery Book\\app\\src\\main\\res\\values-sw600dp-land\\dimens.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 624,
+                        "endColumn": 52,
+                        "endOffset": 672
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 373,
+                    "endColumn": 59,
+                    "endOffset": 428
+                },
+                "from": {
+                    "file": "D:\\Android\\Projects\\Nursery Book\\app\\src\\main\\res\\values-sw600dp-land\\dimens.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 678,
+                        "endColumn": 59,
+                        "endOffset": 733
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 433,
+                    "endColumn": 38,
+                    "endOffset": 467
+                },
+                "from": {
+                    "file": "D:\\Android\\Projects\\Nursery Book\\app\\src\\main\\res\\values-sw600dp-land\\dimens.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 739,
+                        "endColumn": 38,
+                        "endOffset": 773
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 472,
+                    "endColumn": 47,
+                    "endOffset": 515
+                },
+                "from": {
+                    "file": "D:\\Android\\Projects\\Nursery Book\\app\\src\\main\\res\\values-sw600dp-land\\dimens.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 270,
+                        "endColumn": 47,
+                        "endOffset": 313
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 520,
+                    "endColumn": 48,
+                    "endOffset": 564
+                },
+                "from": {
+                    "file": "D:\\Android\\Projects\\Nursery Book\\app\\src\\main\\res\\values-sw600dp-land\\dimens.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 368,
+                        "endColumn": 48,
+                        "endOffset": 412
+                    }
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,2700 @@
+[
+    {
+        "outputFile": "D:\\Android\\Projects\\English_Learning_Book\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 29,
+                    "endColumn": 19,
+                    "endOffset": 703
+                },
+                "from": {
+                    "file": "D:\\Android\\Projects\\English_Learning_Book\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endLine": 30,
+                        "endColumn": 19,
+                        "endOffset": 734
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 708,
+                    "endLine": 57,
+                    "endColumn": 19,
+                    "endOffset": 1518
+                },
+                "from": {
+                    "file": "D:\\Android\\Projects\\English_Learning_Book\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 89,
+                        "startColumn": 4,
+                        "startOffset": 2596,
+                        "endLine": 116,
+                        "endColumn": 19,
+                        "endOffset": 3433
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 58,
+                    "startColumn": 4,
+                    "startOffset": 1523,
+                    "endLine": 85,
+                    "endColumn": 12,
+                    "endOffset": 2573
+                },
+                "from": {
+                    "file": "D:\\Android\\Projects\\English_Learning_Book\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 742,
+                        "endLine": 59,
+                        "endColumn": 12,
+                        "endOffset": 1819
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 86,
+                    "startColumn": 4,
+                    "startOffset": 2578,
+                    "endLine": 96,
+                    "endColumn": 19,
+                    "endOffset": 2892
+                },
+                "from": {
+                    "file": "D:\\Android\\Projects\\English_Learning_Book\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 141,
+                        "startColumn": 4,
+                        "startOffset": 4142,
+                        "endLine": 151,
+                        "endColumn": 19,
+                        "endOffset": 4466
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 97,
+                    "startColumn": 4,
+                    "startOffset": 2897,
+                    "endLine": 107,
+                    "endColumn": 12,
+                    "endOffset": 3269
+                },
+                "from": {
+                    "file": "D:\\Android\\Projects\\English_Learning_Book\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 129,
+                        "startColumn": 4,
+                        "startOffset": 3752,
+                        "endLine": 139,
+                        "endColumn": 12,
+                        "endOffset": 4134
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 108,
+                    "startColumn": 4,
+                    "startOffset": 3274,
+                    "endLine": 118,
+                    "endColumn": 19,
+                    "endOffset": 3569
+                },
+                "from": {
+                    "file": "D:\\Android\\Projects\\English_Learning_Book\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 117,
+                        "startColumn": 4,
+                        "startOffset": 3439,
+                        "endLine": 127,
+                        "endColumn": 19,
+                        "endOffset": 3744
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 119,
+                    "startColumn": 4,
+                    "startOffset": 3574,
+                    "endLine": 146,
+                    "endColumn": 12,
+                    "endOffset": 4310
+                },
+                "from": {
+                    "file": "D:\\Android\\Projects\\English_Learning_Book\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 60,
+                        "startColumn": 4,
+                        "startOffset": 1825,
+                        "endLine": 87,
+                        "endColumn": 12,
+                        "endOffset": 2588
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 147,
+                    "startColumn": 4,
+                    "startOffset": 4315,
+                    "endLine": 158,
+                    "endColumn": 19,
+                    "endOffset": 4659
+                },
+                "from": {
+                    "file": "D:\\Android\\Projects\\English_Learning_Book\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 178,
+                        "startColumn": 4,
+                        "startOffset": 5235,
+                        "endLine": 189,
+                        "endColumn": 19,
+                        "endOffset": 5590
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 159,
+                    "startColumn": 4,
+                    "startOffset": 4664,
+                    "endLine": 170,
+                    "endColumn": 12,
+                    "endOffset": 5105
+                },
+                "from": {
+                    "file": "D:\\Android\\Projects\\English_Learning_Book\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 165,
+                        "startColumn": 4,
+                        "startOffset": 4775,
+                        "endLine": 176,
+                        "endColumn": 12,
+                        "endOffset": 5227
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 171,
+                    "startColumn": 4,
+                    "startOffset": 5110,
+                    "endLine": 182,
+                    "endColumn": 19,
+                    "endOffset": 5394
+                },
+                "from": {
+                    "file": "D:\\Android\\Projects\\English_Learning_Book\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 152,
+                        "startColumn": 4,
+                        "startOffset": 4472,
+                        "endLine": 163,
+                        "endColumn": 19,
+                        "endOffset": 4767
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 183,
+                    "startColumn": 4,
+                    "startOffset": 5399,
+                    "endLine": 188,
+                    "endColumn": 19,
+                    "endOffset": 5569
+                },
+                "from": {
+                    "file": "D:\\Android\\Projects\\English_Learning_Book\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 199,
+                        "startColumn": 4,
+                        "startOffset": 5778,
+                        "endLine": 204,
+                        "endColumn": 19,
+                        "endOffset": 5953
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 189,
+                    "startColumn": 4,
+                    "startOffset": 5574,
+                    "endLine": 194,
+                    "endColumn": 19,
+                    "endOffset": 5739
+                },
+                "from": {
+                    "file": "D:\\Android\\Projects\\English_Learning_Book\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 190,
+                        "startColumn": 4,
+                        "startOffset": 5596,
+                        "endLine": 195,
+                        "endColumn": 19,
+                        "endOffset": 5766
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 195,
+                    "startColumn": 4,
+                    "startOffset": 5744,
+                    "endColumn": 38,
+                    "endOffset": 5778
+                },
+                "from": {
+                    "file": "D:\\Android\\Projects\\English_Learning_Book\\app\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 102,
+                        "endColumn": 38,
+                        "endOffset": 136
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 196,
+                    "startColumn": 4,
+                    "startOffset": 5783,
+                    "endColumn": 39,
+                    "endOffset": 5818
+                },
+                "from": {
+                    "file": "D:\\Android\\Projects\\English_Learning_Book\\app\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 226,
+                        "endColumn": 39,
+                        "endOffset": 261
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 197,
+                    "startColumn": 4,
+                    "startOffset": 5823,
+                    "endColumn": 40,
+                    "endOffset": 5859
+                },
+                "from": {
+                    "file": "D:\\Android\\Projects\\English_Learning_Book\\app\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 267,
+                        "endColumn": 40,
+                        "endOffset": 303
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 198,
+                    "startColumn": 4,
+                    "startOffset": 5864,
+                    "endColumn": 40,
+                    "endOffset": 5900
+                },
+                "from": {
+                    "file": "D:\\Android\\Projects\\English_Learning_Book\\app\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 184,
+                        "endColumn": 40,
+                        "endOffset": 220
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 199,
+                    "startColumn": 4,
+                    "startOffset": 5905,
+                    "endColumn": 37,
+                    "endOffset": 5938
+                },
+                "from": {
+                    "file": "D:\\Android\\Projects\\English_Learning_Book\\app\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 63,
+                        "endColumn": 37,
+                        "endOffset": 96
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 200,
+                    "startColumn": 4,
+                    "startOffset": 5943,
+                    "endColumn": 40,
+                    "endOffset": 5979
+                },
+                "from": {
+                    "file": "D:\\Android\\Projects\\English_Learning_Book\\app\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 309,
+                        "endColumn": 40,
+                        "endOffset": 345
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 201,
+                    "startColumn": 4,
+                    "startOffset": 5984,
+                    "endColumn": 40,
+                    "endOffset": 6020
+                },
+                "from": {
+                    "file": "D:\\Android\\Projects\\English_Learning_Book\\app\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 142,
+                        "endColumn": 40,
+                        "endOffset": 178
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 202,
+                    "startColumn": 4,
+                    "startOffset": 6025,
+                    "endColumn": 57,
+                    "endOffset": 6078
+                },
+                "from": {
+                    "file": "D:\\Android\\Projects\\English_Learning_Book\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 92,
+                        "endColumn": 57,
+                        "endOffset": 145
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 203,
+                    "startColumn": 4,
+                    "startOffset": 6083,
+                    "endColumn": 55,
+                    "endOffset": 6134
+                },
+                "from": {
+                    "file": "D:\\Android\\Projects\\English_Learning_Book\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 151,
+                        "endColumn": 55,
+                        "endOffset": 202
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 204,
+                    "startColumn": 4,
+                    "startOffset": 6139,
+                    "endColumn": 40,
+                    "endOffset": 6175
+                },
+                "from": {
+                    "file": "D:\\Android\\Projects\\English_Learning_Book\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 540,
+                        "endColumn": 40,
+                        "endOffset": 576
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 205,
+                    "startColumn": 4,
+                    "startOffset": 6180,
+                    "endColumn": 42,
+                    "endOffset": 6218
+                },
+                "from": {
+                    "file": "D:\\Android\\Projects\\English_Learning_Book\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 582,
+                        "endColumn": 42,
+                        "endOffset": 620
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 206,
+                    "startColumn": 4,
+                    "startOffset": 6223,
+                    "endColumn": 42,
+                    "endOffset": 6261
+                },
+                "from": {
+                    "file": "D:\\Android\\Projects\\English_Learning_Book\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 451,
+                        "endColumn": 42,
+                        "endOffset": 489
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 207,
+                    "startColumn": 4,
+                    "startOffset": 6266,
+                    "endColumn": 43,
+                    "endOffset": 6305
+                },
+                "from": {
+                    "file": "D:\\Android\\Projects\\English_Learning_Book\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 495,
+                        "endColumn": 43,
+                        "endOffset": 534
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 208,
+                    "startColumn": 4,
+                    "startOffset": 6310,
+                    "endColumn": 42,
+                    "endOffset": 6348
+                },
+                "from": {
+                    "file": "D:\\Android\\Projects\\English_Learning_Book\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 234,
+                        "endColumn": 42,
+                        "endOffset": 272
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 209,
+                    "startColumn": 4,
+                    "startOffset": 6353,
+                    "endColumn": 45,
+                    "endOffset": 6394
+                },
+                "from": {
+                    "file": "D:\\Android\\Projects\\English_Learning_Book\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 327,
+                        "endColumn": 45,
+                        "endOffset": 368
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 210,
+                    "startColumn": 4,
+                    "startOffset": 6399,
+                    "endColumn": 52,
+                    "endOffset": 6447
+                },
+                "from": {
+                    "file": "D:\\Android\\Projects\\English_Learning_Book\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 626,
+                        "endColumn": 52,
+                        "endOffset": 674
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 211,
+                    "startColumn": 4,
+                    "startOffset": 6452,
+                    "endColumn": 37,
+                    "endOffset": 6485
+                },
+                "from": {
+                    "file": "D:\\Android\\Projects\\English_Learning_Book\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 680,
+                        "endColumn": 37,
+                        "endOffset": 713
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 212,
+                    "startColumn": 4,
+                    "startOffset": 6490,
+                    "endColumn": 47,
+                    "endOffset": 6533
+                },
+                "from": {
+                    "file": "D:\\Android\\Projects\\English_Learning_Book\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 278,
+                        "endColumn": 47,
+                        "endOffset": 321
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 213,
+                    "startColumn": 4,
+                    "startOffset": 6538,
+                    "endColumn": 47,
+                    "endOffset": 6581
+                },
+                "from": {
+                    "file": "D:\\Android\\Projects\\English_Learning_Book\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 374,
+                        "endColumn": 47,
+                        "endOffset": 417
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 214,
+                    "startColumn": 4,
+                    "startOffset": 6586,
+                    "endColumn": 52,
+                    "endOffset": 6634
+                },
+                "from": {
+                    "file": "D:\\Android\\Projects\\English_Learning_Book\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 110,
+                        "endColumn": 52,
+                        "endOffset": 158
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 215,
+                    "startColumn": 4,
+                    "startOffset": 6639,
+                    "endColumn": 62,
+                    "endOffset": 6697
+                },
+                "from": {
+                    "file": "D:\\Android\\Projects\\English_Learning_Book\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 780,
+                        "endColumn": 62,
+                        "endOffset": 838
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 216,
+                    "startColumn": 4,
+                    "startOffset": 6702,
+                    "endColumn": 56,
+                    "endOffset": 6754
+                },
+                "from": {
+                    "file": "D:\\Android\\Projects\\English_Learning_Book\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 844,
+                        "endColumn": 56,
+                        "endOffset": 896
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 217,
+                    "startColumn": 4,
+                    "startOffset": 6759,
+                    "endColumn": 49,
+                    "endOffset": 6804
+                },
+                "from": {
+                    "file": "D:\\Android\\Projects\\English_Learning_Book\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 49,
+                        "endOffset": 104
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 218,
+                    "startColumn": 4,
+                    "startOffset": 6809,
+                    "endColumn": 71,
+                    "endOffset": 6876
+                },
+                "from": {
+                    "file": "D:\\Android\\Projects\\English_Learning_Book\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1141,
+                        "endColumn": 71,
+                        "endOffset": 1208
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 219,
+                    "startColumn": 4,
+                    "startOffset": 6881,
+                    "endColumn": 79,
+                    "endOffset": 6956
+                },
+                "from": {
+                    "file": "D:\\Android\\Projects\\English_Learning_Book\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1060,
+                        "endColumn": 79,
+                        "endOffset": 1135
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 220,
+                    "startColumn": 4,
+                    "startOffset": 6961,
+                    "endColumn": 77,
+                    "endOffset": 7034
+                },
+                "from": {
+                    "file": "D:\\Android\\Projects\\English_Learning_Book\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 902,
+                        "endColumn": 77,
+                        "endOffset": 975
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 221,
+                    "startColumn": 4,
+                    "startOffset": 7039,
+                    "endColumn": 77,
+                    "endOffset": 7112
+                },
+                "from": {
+                    "file": "D:\\Android\\Projects\\English_Learning_Book\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 981,
+                        "endColumn": 77,
+                        "endOffset": 1054
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 222,
+                    "startColumn": 4,
+                    "startOffset": 7117,
+                    "endColumn": 52,
+                    "endOffset": 7165
+                },
+                "from": {
+                    "file": "D:\\Android\\Projects\\English_Learning_Book\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 164,
+                        "endColumn": 52,
+                        "endOffset": 212
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 223,
+                    "startColumn": 4,
+                    "startOffset": 7170,
+                    "endLine": 225,
+                    "endColumn": 13,
+                    "endOffset": 7294
+                },
+                "from": {
+                    "file": "D:\\Android\\Projects\\English_Learning_Book\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1214,
+                        "endLine": 25,
+                        "endColumn": 13,
+                        "endOffset": 1340
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 226,
+                    "startColumn": 4,
+                    "startOffset": 7299,
+                    "endColumn": 46,
+                    "endOffset": 7341
+                },
+                "from": {
+                    "file": "D:\\Android\\Projects\\English_Learning_Book\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 667,
+                        "endColumn": 46,
+                        "endOffset": 709
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 227,
+                    "startColumn": 4,
+                    "startOffset": 7346,
+                    "endColumn": 63,
+                    "endOffset": 7405
+                },
+                "from": {
+                    "file": "D:\\Android\\Projects\\English_Learning_Book\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 715,
+                        "endColumn": 63,
+                        "endOffset": 774
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 228,
+                    "startColumn": 4,
+                    "startOffset": 7410,
+                    "endColumn": 54,
+                    "endOffset": 7460
+                },
+                "from": {
+                    "file": "D:\\Android\\Projects\\English_Learning_Book\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 394,
+                        "endColumn": 54,
+                        "endOffset": 444
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 229,
+                    "startColumn": 4,
+                    "startOffset": 7465,
+                    "endColumn": 60,
+                    "endOffset": 7521
+                },
+                "from": {
+                    "file": "D:\\Android\\Projects\\English_Learning_Book\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 218,
+                        "endColumn": 60,
+                        "endOffset": 274
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 230,
+                    "startColumn": 4,
+                    "startOffset": 7526,
+                    "endColumn": 54,
+                    "endOffset": 7576
+                },
+                "from": {
+                    "file": "D:\\Android\\Projects\\English_Learning_Book\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 338,
+                        "endColumn": 54,
+                        "endOffset": 388
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 231,
+                    "startColumn": 4,
+                    "startOffset": 7581,
+                    "endColumn": 56,
+                    "endOffset": 7633
+                },
+                "from": {
+                    "file": "D:\\Android\\Projects\\English_Learning_Book\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 280,
+                        "endColumn": 56,
+                        "endOffset": 332
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 232,
+                    "startColumn": 4,
+                    "startOffset": 7638,
+                    "endColumn": 56,
+                    "endOffset": 7690
+                },
+                "from": {
+                    "file": "D:\\Android\\Projects\\English_Learning_Book\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 510,
+                        "endColumn": 56,
+                        "endOffset": 562
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 233,
+                    "startColumn": 4,
+                    "startOffset": 7695,
+                    "endColumn": 58,
+                    "endOffset": 7749
+                },
+                "from": {
+                    "file": "D:\\Android\\Projects\\English_Learning_Book\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 450,
+                        "endColumn": 58,
+                        "endOffset": 504
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 234,
+                    "startColumn": 4,
+                    "startOffset": 7754,
+                    "endColumn": 56,
+                    "endOffset": 7806
+                },
+                "from": {
+                    "file": "D:\\Android\\Projects\\English_Learning_Book\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 568,
+                        "endColumn": 56,
+                        "endOffset": 620
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 235,
+                    "startColumn": 4,
+                    "startOffset": 7811,
+                    "endLine": 241,
+                    "endColumn": 12,
+                    "endOffset": 8097
+                },
+                "from": {
+                    "file": "D:\\Android\\Projects\\English_Learning_Book\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 191,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 481
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 242,
+                    "startColumn": 4,
+                    "startOffset": 8102,
+                    "endLine": 244,
+                    "endColumn": 12,
+                    "endOffset": 8257
+                },
+                "from": {
+                    "file": "D:\\Android\\Projects\\English_Learning_Book\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 522,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 679
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "D:\\Android_Studio_Preoject\\English_Learning_Book\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 29,
+                    "endColumn": 19,
+                    "endOffset": 703
+                },
+                "from": {
+                    "file": "D:\\Android_Studio_Preoject\\English_Learning_Book\\app\\src\\main\\res\\values\\arrays.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 708,
+                    "endLine": 57,
+                    "endColumn": 19,
+                    "endOffset": 1518
+                },
+                "from": {
+                    "file": "D:\\Android_Studio_Preoject\\English_Learning_Book\\app\\src\\main\\res\\values\\arrays.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 58,
+                    "startColumn": 4,
+                    "startOffset": 1523,
+                    "endLine": 85,
+                    "endColumn": 12,
+                    "endOffset": 2573
+                },
+                "from": {
+                    "file": "D:\\Android_Studio_Preoject\\English_Learning_Book\\app\\src\\main\\res\\values\\arrays.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 86,
+                    "startColumn": 4,
+                    "startOffset": 2578,
+                    "endLine": 96,
+                    "endColumn": 19,
+                    "endOffset": 2892
+                },
+                "from": {
+                    "file": "D:\\Android_Studio_Preoject\\English_Learning_Book\\app\\src\\main\\res\\values\\arrays.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 97,
+                    "startColumn": 4,
+                    "startOffset": 2897,
+                    "endLine": 107,
+                    "endColumn": 12,
+                    "endOffset": 3269
+                },
+                "from": {
+                    "file": "D:\\Android_Studio_Preoject\\English_Learning_Book\\app\\src\\main\\res\\values\\arrays.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 108,
+                    "startColumn": 4,
+                    "startOffset": 3274,
+                    "endLine": 118,
+                    "endColumn": 19,
+                    "endOffset": 3569
+                },
+                "from": {
+                    "file": "D:\\Android_Studio_Preoject\\English_Learning_Book\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 117,
+                        "startColumn": 4,
+                        "startOffset": 3439,
+                        "endLine": 127,
+                        "endColumn": 19,
+                        "endOffset": 3744
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 119,
+                    "startColumn": 4,
+                    "startOffset": 3574,
+                    "endLine": 146,
+                    "endColumn": 12,
+                    "endOffset": 4310
+                },
+                "from": {
+                    "file": "D:\\Android_Studio_Preoject\\English_Learning_Book\\app\\src\\main\\res\\values\\arrays.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 147,
+                    "startColumn": 4,
+                    "startOffset": 4315,
+                    "endLine": 158,
+                    "endColumn": 19,
+                    "endOffset": 4659
+                },
+                "from": {
+                    "file": "D:\\Android_Studio_Preoject\\English_Learning_Book\\app\\src\\main\\res\\values\\arrays.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 159,
+                    "startColumn": 4,
+                    "startOffset": 4664,
+                    "endLine": 170,
+                    "endColumn": 12,
+                    "endOffset": 5105
+                },
+                "from": {
+                    "file": "D:\\Android_Studio_Preoject\\English_Learning_Book\\app\\src\\main\\res\\values\\arrays.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 171,
+                    "startColumn": 4,
+                    "startOffset": 5110,
+                    "endLine": 182,
+                    "endColumn": 19,
+                    "endOffset": 5394
+                },
+                "from": {
+                    "file": "D:\\Android_Studio_Preoject\\English_Learning_Book\\app\\src\\main\\res\\values\\arrays.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 183,
+                    "startColumn": 4,
+                    "startOffset": 5399,
+                    "endLine": 188,
+                    "endColumn": 19,
+                    "endOffset": 5569
+                },
+                "from": {
+                    "file": "D:\\Android_Studio_Preoject\\English_Learning_Book\\app\\src\\main\\res\\values\\arrays.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 189,
+                    "startColumn": 4,
+                    "startOffset": 5574,
+                    "endLine": 194,
+                    "endColumn": 19,
+                    "endOffset": 5739
+                },
+                "from": {
+                    "file": "D:\\Android_Studio_Preoject\\English_Learning_Book\\app\\src\\main\\res\\values\\arrays.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 195,
+                    "startColumn": 4,
+                    "startOffset": 5744,
+                    "endColumn": 38,
+                    "endOffset": 5778
+                },
+                "from": {
+                    "file": "D:\\Android_Studio_Preoject\\English_Learning_Book\\app\\src\\main\\res\\values\\color.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 196,
+                    "startColumn": 4,
+                    "startOffset": 5783,
+                    "endColumn": 39,
+                    "endOffset": 5818
+                },
+                "from": {
+                    "file": "D:\\Android_Studio_Preoject\\English_Learning_Book\\app\\src\\main\\res\\values\\color.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 197,
+                    "startColumn": 4,
+                    "startOffset": 5823,
+                    "endColumn": 40,
+                    "endOffset": 5859
+                },
+                "from": {
+                    "file": "D:\\Android_Studio_Preoject\\English_Learning_Book\\app\\src\\main\\res\\values\\color.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 198,
+                    "startColumn": 4,
+                    "startOffset": 5864,
+                    "endColumn": 40,
+                    "endOffset": 5900
+                },
+                "from": {
+                    "file": "D:\\Android_Studio_Preoject\\English_Learning_Book\\app\\src\\main\\res\\values\\color.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 199,
+                    "startColumn": 4,
+                    "startOffset": 5905,
+                    "endColumn": 37,
+                    "endOffset": 5938
+                },
+                "from": {
+                    "file": "D:\\Android_Studio_Preoject\\English_Learning_Book\\app\\src\\main\\res\\values\\color.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 200,
+                    "startColumn": 4,
+                    "startOffset": 5943,
+                    "endColumn": 40,
+                    "endOffset": 5979
+                },
+                "from": {
+                    "file": "D:\\Android_Studio_Preoject\\English_Learning_Book\\app\\src\\main\\res\\values\\color.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 201,
+                    "startColumn": 4,
+                    "startOffset": 5984,
+                    "endColumn": 40,
+                    "endOffset": 6020
+                },
+                "from": {
+                    "file": "D:\\Android_Studio_Preoject\\English_Learning_Book\\app\\src\\main\\res\\values\\color.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 202,
+                    "startColumn": 4,
+                    "startOffset": 6025,
+                    "endColumn": 57,
+                    "endOffset": 6078
+                },
+                "from": {
+                    "file": "D:\\Android_Studio_Preoject\\English_Learning_Book\\app\\src\\main\\res\\values\\dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 203,
+                    "startColumn": 4,
+                    "startOffset": 6083,
+                    "endColumn": 55,
+                    "endOffset": 6134
+                },
+                "from": {
+                    "file": "D:\\Android_Studio_Preoject\\English_Learning_Book\\app\\src\\main\\res\\values\\dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 204,
+                    "startColumn": 4,
+                    "startOffset": 6139,
+                    "endColumn": 40,
+                    "endOffset": 6175
+                },
+                "from": {
+                    "file": "D:\\Android_Studio_Preoject\\English_Learning_Book\\app\\src\\main\\res\\values\\dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 205,
+                    "startColumn": 4,
+                    "startOffset": 6180,
+                    "endColumn": 42,
+                    "endOffset": 6218
+                },
+                "from": {
+                    "file": "D:\\Android_Studio_Preoject\\English_Learning_Book\\app\\src\\main\\res\\values\\dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 206,
+                    "startColumn": 4,
+                    "startOffset": 6223,
+                    "endColumn": 42,
+                    "endOffset": 6261
+                },
+                "from": {
+                    "file": "D:\\Android_Studio_Preoject\\English_Learning_Book\\app\\src\\main\\res\\values\\dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 207,
+                    "startColumn": 4,
+                    "startOffset": 6266,
+                    "endColumn": 43,
+                    "endOffset": 6305
+                },
+                "from": {
+                    "file": "D:\\Android_Studio_Preoject\\English_Learning_Book\\app\\src\\main\\res\\values\\dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 208,
+                    "startColumn": 4,
+                    "startOffset": 6310,
+                    "endColumn": 42,
+                    "endOffset": 6348
+                },
+                "from": {
+                    "file": "D:\\Android_Studio_Preoject\\English_Learning_Book\\app\\src\\main\\res\\values\\dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 209,
+                    "startColumn": 4,
+                    "startOffset": 6353,
+                    "endColumn": 45,
+                    "endOffset": 6394
+                },
+                "from": {
+                    "file": "D:\\Android_Studio_Preoject\\English_Learning_Book\\app\\src\\main\\res\\values\\dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 210,
+                    "startColumn": 4,
+                    "startOffset": 6399,
+                    "endColumn": 52,
+                    "endOffset": 6447
+                },
+                "from": {
+                    "file": "D:\\Android_Studio_Preoject\\English_Learning_Book\\app\\src\\main\\res\\values\\dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 211,
+                    "startColumn": 4,
+                    "startOffset": 6452,
+                    "endColumn": 37,
+                    "endOffset": 6485
+                },
+                "from": {
+                    "file": "D:\\Android_Studio_Preoject\\English_Learning_Book\\app\\src\\main\\res\\values\\dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 212,
+                    "startColumn": 4,
+                    "startOffset": 6490,
+                    "endColumn": 47,
+                    "endOffset": 6533
+                },
+                "from": {
+                    "file": "D:\\Android_Studio_Preoject\\English_Learning_Book\\app\\src\\main\\res\\values\\dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 213,
+                    "startColumn": 4,
+                    "startOffset": 6538,
+                    "endColumn": 47,
+                    "endOffset": 6581
+                },
+                "from": {
+                    "file": "D:\\Android_Studio_Preoject\\English_Learning_Book\\app\\src\\main\\res\\values\\dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 214,
+                    "startColumn": 4,
+                    "startOffset": 6586,
+                    "endColumn": 52,
+                    "endOffset": 6634
+                },
+                "from": {
+                    "file": "D:\\Android_Studio_Preoject\\English_Learning_Book\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 215,
+                    "startColumn": 4,
+                    "startOffset": 6639,
+                    "endColumn": 62,
+                    "endOffset": 6697
+                },
+                "from": {
+                    "file": "D:\\Android_Studio_Preoject\\English_Learning_Book\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 216,
+                    "startColumn": 4,
+                    "startOffset": 6702,
+                    "endColumn": 56,
+                    "endOffset": 6754
+                },
+                "from": {
+                    "file": "D:\\Android_Studio_Preoject\\English_Learning_Book\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 217,
+                    "startColumn": 4,
+                    "startOffset": 6759,
+                    "endColumn": 49,
+                    "endOffset": 6804
+                },
+                "from": {
+                    "file": "D:\\Android_Studio_Preoject\\English_Learning_Book\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 218,
+                    "startColumn": 4,
+                    "startOffset": 6809,
+                    "endColumn": 71,
+                    "endOffset": 6876
+                },
+                "from": {
+                    "file": "D:\\Android_Studio_Preoject\\English_Learning_Book\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 219,
+                    "startColumn": 4,
+                    "startOffset": 6881,
+                    "endColumn": 79,
+                    "endOffset": 6956
+                },
+                "from": {
+                    "file": "D:\\Android_Studio_Preoject\\English_Learning_Book\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 220,
+                    "startColumn": 4,
+                    "startOffset": 6961,
+                    "endColumn": 77,
+                    "endOffset": 7034
+                },
+                "from": {
+                    "file": "D:\\Android_Studio_Preoject\\English_Learning_Book\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 221,
+                    "startColumn": 4,
+                    "startOffset": 7039,
+                    "endColumn": 77,
+                    "endOffset": 7112
+                },
+                "from": {
+                    "file": "D:\\Android_Studio_Preoject\\English_Learning_Book\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 222,
+                    "startColumn": 4,
+                    "startOffset": 7117,
+                    "endColumn": 52,
+                    "endOffset": 7165
+                },
+                "from": {
+                    "file": "D:\\Android_Studio_Preoject\\English_Learning_Book\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 223,
+                    "startColumn": 4,
+                    "startOffset": 7170,
+                    "endLine": 225,
+                    "endColumn": 13,
+                    "endOffset": 7294
+                },
+                "from": {
+                    "file": "D:\\Android_Studio_Preoject\\English_Learning_Book\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 226,
+                    "startColumn": 4,
+                    "startOffset": 7299,
+                    "endColumn": 46,
+                    "endOffset": 7341
+                },
+                "from": {
+                    "file": "D:\\Android_Studio_Preoject\\English_Learning_Book\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 227,
+                    "startColumn": 4,
+                    "startOffset": 7346,
+                    "endColumn": 63,
+                    "endOffset": 7405
+                },
+                "from": {
+                    "file": "D:\\Android_Studio_Preoject\\English_Learning_Book\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 228,
+                    "startColumn": 4,
+                    "startOffset": 7410,
+                    "endColumn": 54,
+                    "endOffset": 7460
+                },
+                "from": {
+                    "file": "D:\\Android_Studio_Preoject\\English_Learning_Book\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 229,
+                    "startColumn": 4,
+                    "startOffset": 7465,
+                    "endColumn": 60,
+                    "endOffset": 7521
+                },
+                "from": {
+                    "file": "D:\\Android_Studio_Preoject\\English_Learning_Book\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 230,
+                    "startColumn": 4,
+                    "startOffset": 7526,
+                    "endColumn": 54,
+                    "endOffset": 7576
+                },
+                "from": {
+                    "file": "D:\\Android_Studio_Preoject\\English_Learning_Book\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 231,
+                    "startColumn": 4,
+                    "startOffset": 7581,
+                    "endColumn": 56,
+                    "endOffset": 7633
+                },
+                "from": {
+                    "file": "D:\\Android_Studio_Preoject\\English_Learning_Book\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 232,
+                    "startColumn": 4,
+                    "startOffset": 7638,
+                    "endColumn": 56,
+                    "endOffset": 7690
+                },
+                "from": {
+                    "file": "D:\\Android_Studio_Preoject\\English_Learning_Book\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 233,
+                    "startColumn": 4,
+                    "startOffset": 7695,
+                    "endColumn": 58,
+                    "endOffset": 7749
+                },
+                "from": {
+                    "file": "D:\\Android_Studio_Preoject\\English_Learning_Book\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 234,
+                    "startColumn": 4,
+                    "startOffset": 7754,
+                    "endColumn": 56,
+                    "endOffset": 7806
+                },
+                "from": {
+                    "file": "D:\\Android_Studio_Preoject\\English_Learning_Book\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 235,
+                    "startColumn": 4,
+                    "startOffset": 7811,
+                    "endLine": 237,
+                    "endColumn": 12,
+                    "endOffset": 7889
+                },
+                "from": {
+                    "file": "D:\\Android_Studio_Preoject\\English_Learning_Book\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 238,
+                    "startColumn": 4,
+                    "startOffset": 7894,
+                    "endLine": 240,
+                    "endColumn": 12,
+                    "endOffset": 7961
+                },
+                "from": {
+                    "file": "D:\\Android_Studio_Preoject\\English_Learning_Book\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "D:\\Android\\Projects\\Nursery Book\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 29,
+                    "endColumn": 19,
+                    "endOffset": 703
+                },
+                "from": {
+                    "file": "D:\\Android\\Projects\\Nursery Book\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endLine": 30,
+                        "endColumn": 19,
+                        "endOffset": 734
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 708,
+                    "endLine": 57,
+                    "endColumn": 19,
+                    "endOffset": 1518
+                },
+                "from": {
+                    "file": "D:\\Android\\Projects\\Nursery Book\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 89,
+                        "startColumn": 4,
+                        "startOffset": 2596,
+                        "endLine": 116,
+                        "endColumn": 19,
+                        "endOffset": 3433
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 58,
+                    "startColumn": 4,
+                    "startOffset": 1523,
+                    "endLine": 85,
+                    "endColumn": 12,
+                    "endOffset": 2573
+                },
+                "from": {
+                    "file": "D:\\Android\\Projects\\Nursery Book\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 742,
+                        "endLine": 59,
+                        "endColumn": 12,
+                        "endOffset": 1819
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 86,
+                    "startColumn": 4,
+                    "startOffset": 2578,
+                    "endLine": 96,
+                    "endColumn": 19,
+                    "endOffset": 2892
+                },
+                "from": {
+                    "file": "D:\\Android\\Projects\\Nursery Book\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 141,
+                        "startColumn": 4,
+                        "startOffset": 4142,
+                        "endLine": 151,
+                        "endColumn": 19,
+                        "endOffset": 4466
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 97,
+                    "startColumn": 4,
+                    "startOffset": 2897,
+                    "endLine": 107,
+                    "endColumn": 12,
+                    "endOffset": 3269
+                },
+                "from": {
+                    "file": "D:\\Android\\Projects\\Nursery Book\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 129,
+                        "startColumn": 4,
+                        "startOffset": 3752,
+                        "endLine": 139,
+                        "endColumn": 12,
+                        "endOffset": 4134
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 108,
+                    "startColumn": 4,
+                    "startOffset": 3274,
+                    "endLine": 118,
+                    "endColumn": 19,
+                    "endOffset": 3569
+                },
+                "from": {
+                    "file": "D:\\Android\\Projects\\Nursery Book\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 117,
+                        "startColumn": 4,
+                        "startOffset": 3439,
+                        "endLine": 127,
+                        "endColumn": 19,
+                        "endOffset": 3744
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 119,
+                    "startColumn": 4,
+                    "startOffset": 3574,
+                    "endLine": 146,
+                    "endColumn": 12,
+                    "endOffset": 4310
+                },
+                "from": {
+                    "file": "D:\\Android\\Projects\\Nursery Book\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 60,
+                        "startColumn": 4,
+                        "startOffset": 1825,
+                        "endLine": 87,
+                        "endColumn": 12,
+                        "endOffset": 2588
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 147,
+                    "startColumn": 4,
+                    "startOffset": 4315,
+                    "endLine": 158,
+                    "endColumn": 19,
+                    "endOffset": 4659
+                },
+                "from": {
+                    "file": "D:\\Android\\Projects\\Nursery Book\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 178,
+                        "startColumn": 4,
+                        "startOffset": 5235,
+                        "endLine": 189,
+                        "endColumn": 19,
+                        "endOffset": 5590
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 159,
+                    "startColumn": 4,
+                    "startOffset": 4664,
+                    "endLine": 170,
+                    "endColumn": 12,
+                    "endOffset": 5105
+                },
+                "from": {
+                    "file": "D:\\Android\\Projects\\Nursery Book\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 165,
+                        "startColumn": 4,
+                        "startOffset": 4775,
+                        "endLine": 176,
+                        "endColumn": 12,
+                        "endOffset": 5227
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 171,
+                    "startColumn": 4,
+                    "startOffset": 5110,
+                    "endLine": 182,
+                    "endColumn": 19,
+                    "endOffset": 5394
+                },
+                "from": {
+                    "file": "D:\\Android\\Projects\\Nursery Book\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 152,
+                        "startColumn": 4,
+                        "startOffset": 4472,
+                        "endLine": 163,
+                        "endColumn": 19,
+                        "endOffset": 4767
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 183,
+                    "startColumn": 4,
+                    "startOffset": 5399,
+                    "endLine": 188,
+                    "endColumn": 19,
+                    "endOffset": 5569
+                },
+                "from": {
+                    "file": "D:\\Android\\Projects\\Nursery Book\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 199,
+                        "startColumn": 4,
+                        "startOffset": 5778,
+                        "endLine": 204,
+                        "endColumn": 19,
+                        "endOffset": 5953
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 189,
+                    "startColumn": 4,
+                    "startOffset": 5574,
+                    "endLine": 194,
+                    "endColumn": 19,
+                    "endOffset": 5739
+                },
+                "from": {
+                    "file": "D:\\Android\\Projects\\Nursery Book\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 190,
+                        "startColumn": 4,
+                        "startOffset": 5596,
+                        "endLine": 195,
+                        "endColumn": 19,
+                        "endOffset": 5766
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 195,
+                    "startColumn": 4,
+                    "startOffset": 5744,
+                    "endColumn": 38,
+                    "endOffset": 5778
+                },
+                "from": {
+                    "file": "D:\\Android\\Projects\\Nursery Book\\app\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 102,
+                        "endColumn": 38,
+                        "endOffset": 136
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 196,
+                    "startColumn": 4,
+                    "startOffset": 5783,
+                    "endColumn": 39,
+                    "endOffset": 5818
+                },
+                "from": {
+                    "file": "D:\\Android\\Projects\\Nursery Book\\app\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 226,
+                        "endColumn": 39,
+                        "endOffset": 261
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 197,
+                    "startColumn": 4,
+                    "startOffset": 5823,
+                    "endColumn": 40,
+                    "endOffset": 5859
+                },
+                "from": {
+                    "file": "D:\\Android\\Projects\\Nursery Book\\app\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 267,
+                        "endColumn": 40,
+                        "endOffset": 303
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 198,
+                    "startColumn": 4,
+                    "startOffset": 5864,
+                    "endColumn": 40,
+                    "endOffset": 5900
+                },
+                "from": {
+                    "file": "D:\\Android\\Projects\\Nursery Book\\app\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 184,
+                        "endColumn": 40,
+                        "endOffset": 220
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 199,
+                    "startColumn": 4,
+                    "startOffset": 5905,
+                    "endColumn": 37,
+                    "endOffset": 5938
+                },
+                "from": {
+                    "file": "D:\\Android\\Projects\\Nursery Book\\app\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 63,
+                        "endColumn": 37,
+                        "endOffset": 96
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 200,
+                    "startColumn": 4,
+                    "startOffset": 5943,
+                    "endColumn": 40,
+                    "endOffset": 5979
+                },
+                "from": {
+                    "file": "D:\\Android\\Projects\\Nursery Book\\app\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 309,
+                        "endColumn": 40,
+                        "endOffset": 345
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 201,
+                    "startColumn": 4,
+                    "startOffset": 5984,
+                    "endColumn": 40,
+                    "endOffset": 6020
+                },
+                "from": {
+                    "file": "D:\\Android\\Projects\\Nursery Book\\app\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 142,
+                        "endColumn": 40,
+                        "endOffset": 178
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 202,
+                    "startColumn": 4,
+                    "startOffset": 6025,
+                    "endColumn": 57,
+                    "endOffset": 6078
+                },
+                "from": {
+                    "file": "D:\\Android\\Projects\\Nursery Book\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 92,
+                        "endColumn": 57,
+                        "endOffset": 145
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 203,
+                    "startColumn": 4,
+                    "startOffset": 6083,
+                    "endColumn": 55,
+                    "endOffset": 6134
+                },
+                "from": {
+                    "file": "D:\\Android\\Projects\\Nursery Book\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 151,
+                        "endColumn": 55,
+                        "endOffset": 202
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 204,
+                    "startColumn": 4,
+                    "startOffset": 6139,
+                    "endColumn": 40,
+                    "endOffset": 6175
+                },
+                "from": {
+                    "file": "D:\\Android\\Projects\\Nursery Book\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 540,
+                        "endColumn": 40,
+                        "endOffset": 576
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 205,
+                    "startColumn": 4,
+                    "startOffset": 6180,
+                    "endColumn": 42,
+                    "endOffset": 6218
+                },
+                "from": {
+                    "file": "D:\\Android\\Projects\\Nursery Book\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 582,
+                        "endColumn": 42,
+                        "endOffset": 620
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 206,
+                    "startColumn": 4,
+                    "startOffset": 6223,
+                    "endColumn": 42,
+                    "endOffset": 6261
+                },
+                "from": {
+                    "file": "D:\\Android\\Projects\\Nursery Book\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 451,
+                        "endColumn": 42,
+                        "endOffset": 489
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 207,
+                    "startColumn": 4,
+                    "startOffset": 6266,
+                    "endColumn": 43,
+                    "endOffset": 6305
+                },
+                "from": {
+                    "file": "D:\\Android\\Projects\\Nursery Book\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 495,
+                        "endColumn": 43,
+                        "endOffset": 534
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 208,
+                    "startColumn": 4,
+                    "startOffset": 6310,
+                    "endColumn": 42,
+                    "endOffset": 6348
+                },
+                "from": {
+                    "file": "D:\\Android\\Projects\\Nursery Book\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 234,
+                        "endColumn": 42,
+                        "endOffset": 272
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 209,
+                    "startColumn": 4,
+                    "startOffset": 6353,
+                    "endColumn": 45,
+                    "endOffset": 6394
+                },
+                "from": {
+                    "file": "D:\\Android\\Projects\\Nursery Book\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 327,
+                        "endColumn": 45,
+                        "endOffset": 368
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 210,
+                    "startColumn": 4,
+                    "startOffset": 6399,
+                    "endColumn": 52,
+                    "endOffset": 6447
+                },
+                "from": {
+                    "file": "D:\\Android\\Projects\\Nursery Book\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 626,
+                        "endColumn": 52,
+                        "endOffset": 674
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 211,
+                    "startColumn": 4,
+                    "startOffset": 6452,
+                    "endColumn": 37,
+                    "endOffset": 6485
+                },
+                "from": {
+                    "file": "D:\\Android\\Projects\\Nursery Book\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 680,
+                        "endColumn": 37,
+                        "endOffset": 713
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 212,
+                    "startColumn": 4,
+                    "startOffset": 6490,
+                    "endColumn": 47,
+                    "endOffset": 6533
+                },
+                "from": {
+                    "file": "D:\\Android\\Projects\\Nursery Book\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 278,
+                        "endColumn": 47,
+                        "endOffset": 321
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 213,
+                    "startColumn": 4,
+                    "startOffset": 6538,
+                    "endColumn": 47,
+                    "endOffset": 6581
+                },
+                "from": {
+                    "file": "D:\\Android\\Projects\\Nursery Book\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 374,
+                        "endColumn": 47,
+                        "endOffset": 417
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 214,
+                    "startColumn": 4,
+                    "startOffset": 6586,
+                    "endColumn": 52,
+                    "endOffset": 6634
+                },
+                "from": {
+                    "file": "D:\\Android\\Projects\\Nursery Book\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 110,
+                        "endColumn": 52,
+                        "endOffset": 158
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 215,
+                    "startColumn": 4,
+                    "startOffset": 6639,
+                    "endColumn": 62,
+                    "endOffset": 6697
+                },
+                "from": {
+                    "file": "D:\\Android\\Projects\\Nursery Book\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 780,
+                        "endColumn": 62,
+                        "endOffset": 838
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 216,
+                    "startColumn": 4,
+                    "startOffset": 6702,
+                    "endColumn": 56,
+                    "endOffset": 6754
+                },
+                "from": {
+                    "file": "D:\\Android\\Projects\\Nursery Book\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 844,
+                        "endColumn": 56,
+                        "endOffset": 896
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 217,
+                    "startColumn": 4,
+                    "startOffset": 6759,
+                    "endColumn": 49,
+                    "endOffset": 6804
+                },
+                "from": {
+                    "file": "D:\\Android\\Projects\\Nursery Book\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 49,
+                        "endOffset": 104
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 218,
+                    "startColumn": 4,
+                    "startOffset": 6809,
+                    "endColumn": 71,
+                    "endOffset": 6876
+                },
+                "from": {
+                    "file": "D:\\Android\\Projects\\Nursery Book\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1141,
+                        "endColumn": 71,
+                        "endOffset": 1208
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 219,
+                    "startColumn": 4,
+                    "startOffset": 6881,
+                    "endColumn": 79,
+                    "endOffset": 6956
+                },
+                "from": {
+                    "file": "D:\\Android\\Projects\\Nursery Book\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1060,
+                        "endColumn": 79,
+                        "endOffset": 1135
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 220,
+                    "startColumn": 4,
+                    "startOffset": 6961,
+                    "endColumn": 77,
+                    "endOffset": 7034
+                },
+                "from": {
+                    "file": "D:\\Android\\Projects\\Nursery Book\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 902,
+                        "endColumn": 77,
+                        "endOffset": 975
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 221,
+                    "startColumn": 4,
+                    "startOffset": 7039,
+                    "endColumn": 77,
+                    "endOffset": 7112
+                },
+                "from": {
+                    "file": "D:\\Android\\Projects\\Nursery Book\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 981,
+                        "endColumn": 77,
+                        "endOffset": 1054
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 222,
+                    "startColumn": 4,
+                    "startOffset": 7117,
+                    "endColumn": 52,
+                    "endOffset": 7165
+                },
+                "from": {
+                    "file": "D:\\Android\\Projects\\Nursery Book\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 164,
+                        "endColumn": 52,
+                        "endOffset": 212
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 223,
+                    "startColumn": 4,
+                    "startOffset": 7170,
+                    "endLine": 225,
+                    "endColumn": 13,
+                    "endOffset": 7294
+                },
+                "from": {
+                    "file": "D:\\Android\\Projects\\Nursery Book\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1214,
+                        "endLine": 25,
+                        "endColumn": 13,
+                        "endOffset": 1340
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 226,
+                    "startColumn": 4,
+                    "startOffset": 7299,
+                    "endColumn": 46,
+                    "endOffset": 7341
+                },
+                "from": {
+                    "file": "D:\\Android\\Projects\\Nursery Book\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 667,
+                        "endColumn": 46,
+                        "endOffset": 709
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 227,
+                    "startColumn": 4,
+                    "startOffset": 7346,
+                    "endColumn": 63,
+                    "endOffset": 7405
+                },
+                "from": {
+                    "file": "D:\\Android\\Projects\\Nursery Book\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 715,
+                        "endColumn": 63,
+                        "endOffset": 774
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 228,
+                    "startColumn": 4,
+                    "startOffset": 7410,
+                    "endColumn": 54,
+                    "endOffset": 7460
+                },
+                "from": {
+                    "file": "D:\\Android\\Projects\\Nursery Book\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 394,
+                        "endColumn": 54,
+                        "endOffset": 444
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 229,
+                    "startColumn": 4,
+                    "startOffset": 7465,
+                    "endColumn": 60,
+                    "endOffset": 7521
+                },
+                "from": {
+                    "file": "D:\\Android\\Projects\\Nursery Book\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 218,
+                        "endColumn": 60,
+                        "endOffset": 274
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 230,
+                    "startColumn": 4,
+                    "startOffset": 7526,
+                    "endColumn": 54,
+                    "endOffset": 7576
+                },
+                "from": {
+                    "file": "D:\\Android\\Projects\\Nursery Book\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 338,
+                        "endColumn": 54,
+                        "endOffset": 388
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 231,
+                    "startColumn": 4,
+                    "startOffset": 7581,
+                    "endColumn": 56,
+                    "endOffset": 7633
+                },
+                "from": {
+                    "file": "D:\\Android\\Projects\\Nursery Book\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 280,
+                        "endColumn": 56,
+                        "endOffset": 332
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 232,
+                    "startColumn": 4,
+                    "startOffset": 7638,
+                    "endColumn": 56,
+                    "endOffset": 7690
+                },
+                "from": {
+                    "file": "D:\\Android\\Projects\\Nursery Book\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 510,
+                        "endColumn": 56,
+                        "endOffset": 562
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 233,
+                    "startColumn": 4,
+                    "startOffset": 7695,
+                    "endColumn": 58,
+                    "endOffset": 7749
+                },
+                "from": {
+                    "file": "D:\\Android\\Projects\\Nursery Book\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 450,
+                        "endColumn": 58,
+                        "endOffset": 504
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 234,
+                    "startColumn": 4,
+                    "startOffset": 7754,
+                    "endColumn": 56,
+                    "endOffset": 7806
+                },
+                "from": {
+                    "file": "D:\\Android\\Projects\\Nursery Book\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 568,
+                        "endColumn": 56,
+                        "endOffset": 620
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 235,
+                    "startColumn": 4,
+                    "startOffset": 7811,
+                    "endLine": 241,
+                    "endColumn": 12,
+                    "endOffset": 8097
+                },
+                "from": {
+                    "file": "D:\\Android\\Projects\\Nursery Book\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 191,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 481
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 242,
+                    "startColumn": 4,
+                    "startOffset": 8102,
+                    "endLine": 244,
+                    "endColumn": 12,
+                    "endOffset": 8257
+                },
+                "from": {
+                    "file": "D:\\Android\\Projects\\Nursery Book\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 522,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 679
+                    }
+                }
+            }
+        ]
+    }
+]
